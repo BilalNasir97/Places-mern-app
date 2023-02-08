@@ -1,8 +1,0 @@
-{
-  "env": {
-    "DB_USER": "mern_user",
-    "DB_PASSWORD": "mern_password",
-    "DB_NAME": "mern_db",
-    "JWT_KEY": "supersecret_dont_share"
-  }
-}
