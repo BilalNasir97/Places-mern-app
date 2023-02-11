@@ -8,7 +8,7 @@ const mongoose = require('mongoose')
 
 const placesRoutes = require('./routes/places-routes')
 const usersRoutes = require('./routes/users-routes')
-const HttpError = require('../server/models/httperror')
+const HttpError = require('./models/httperror')
 
 const app = express()
 
